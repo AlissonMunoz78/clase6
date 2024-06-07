@@ -25,7 +25,7 @@ Salir:
 ![image](https://github.com/MateoXtra/FigurasGeometricasEnClase/assets/170634042/b0026af7-a257-4601-bd41-cd8b704db78a)
 
 
-Figuras 2D regulares:
+Banco 2D regulares:
 
 ![image](https://github.com/MateoXtra/FigurasGeometricasEnClase/assets/170634042/864aa75a-3392-407f-98cc-bf00c475b647)
 
@@ -34,14 +34,14 @@ Hexagono:
 ![image](https://github.com/MateoXtra/FigurasGeometricasEnClase/assets/170634042/c5a3f486-2bf6-4db2-85d6-b1538aee1aa0)
 
 
-Figuras 2D irregulares:
+Banco 2D irregulares:
 
 Paralelogramo:
 
 ![image](https://github.com/MateoXtra/FigurasGeometricasEnClase/assets/170634042/140b7b67-0877-4b7c-a353-e545017e018b)
 
 
-Figuras 3D:
+Banco 3D:
 
 ![image](https://github.com/MateoXtra/FigurasGeometricasEnClase/assets/170634042/bfe354eb-c9e3-4f61-bf82-908a36a4b79f)
 
